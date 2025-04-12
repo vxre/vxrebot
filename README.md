@@ -1,0 +1,2 @@
+# vxrebot
+vxres custom bot
